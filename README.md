@@ -4,4 +4,6 @@
 [Weights for Default-to-Param model](https://drive.google.com/file/d/1NcmYU1XXc-FEofpzWRbVlk_Kyvc9e170/view?usp=sharing).<br />
 [Weights for Param-to-Param model](https://drive.google.com/file/d/1C_5h0n2P89eHxtOILiNsNYxmK7Ibgpvw/view?usp=sharing).<br />
 
-Note: Updates to be made soon.
+#### Note: Major updates to be made soon w.r.t.
+ - Code will be polished and uploaded in .py files making it executable directly from terminal.
+ - readme file will be updating explaining the function of every .py file and dataset.
