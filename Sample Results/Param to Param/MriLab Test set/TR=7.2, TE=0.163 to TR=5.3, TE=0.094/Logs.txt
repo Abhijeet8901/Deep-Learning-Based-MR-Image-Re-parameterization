@@ -1,5 +1,0 @@
-TR=7.2, TE=0.163 to TR=5.3, TE=0.094
-Slice No = 17
-Min Difference = 0.00035715103
-Max Difference = 80.61673
-Avg Difference = 7.3353896

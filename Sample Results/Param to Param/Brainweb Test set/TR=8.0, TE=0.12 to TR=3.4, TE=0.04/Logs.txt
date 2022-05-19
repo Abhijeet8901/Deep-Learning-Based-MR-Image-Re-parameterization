@@ -1,4 +1,0 @@
-TR=8.0, TE=0.12 to TR=3.4, TE=0.04
-Min Difference = 7.6293945e-05
-Max Difference = 147.24094
-Avg Difference = 24.08445
