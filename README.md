@@ -29,70 +29,24 @@ You can download the trained weights from here - <br />
 
 ## MRiLab Results
 ### Default-to-Param Model
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Input** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **Required** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Generated**&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; **Absolute Difference**
 <p align='center'>
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=1.2, TE=0.038/Input, TR=4.5, TE=0.05, Slice =14.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=1.2, TE=0.038/Required, TR=1.2, TE=0.038, Slice=14.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=1.2, TE=0.038/Generated, TR=1.2, TE=0.038, Slice=14.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=1.2, TE=0.038/Difference, min=0.00015258789, max=91.92021, avg=8.629864.png" width="220" height="240" />
+    <img src="Sample Results/Default-to-Param_MRiLab-Results.jpg" width="800" height="555" />
 </p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TE=50ms, TR=4.5s** &emsp;&emsp;&emsp;&emsp;&ensp; **TE=38ms, TR=1.2s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=38ms, TR=1.2s** &emsp;&emsp;&emsp;&emsp;&emsp; **Avg. Difference=8.63**
-
-<p align='center'>
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=5.2, TE=0.398/Input, TR=4.5, TE=0.05, Slice =7.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=5.2, TE=0.398/Required, TR=5.2, TE=0.398, Slice=7.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=5.2, TE=0.398/Generated, TR=5.2, TE=0.398, Slice=7.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/MriLab Test set/TR=4.5, TE=0.05 to TR=5.2, TE=0.398/Difference, min=7.56979e-06, max=85.252975, avg=4.819974.png" width="220" height="240" />
-</p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TE=50ms, TR=4.5s** &emsp;&emsp;&emsp;&emsp; **TE=398ms, TR=5.2s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=398ms, TR=5.2s** &emsp;&emsp;&emsp;&emsp;&ensp; **Avg. Difference=4.82**
 
 ### Param-to-Param Model
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Input** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **Required** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Generated**&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; **Absolute Difference**
 <p align='center'>
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=2.2, TE=0.096 to TR=2.0, TE=0.949/Input, TR=2.2, TE=0.096, Slice=4.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=2.2, TE=0.096 to TR=2.0, TE=0.949/Required, TR=2.0, TE=0.949, Slice=4.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=2.2, TE=0.096 to TR=2.0, TE=0.949/Generated, TR=2.0, TE=0.949, Slice=4.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=2.2, TE=0.096 to TR=2.0, TE=0.949/Difference, min=0.0, max=124.75277, avg=7.9379506.png" width="220" height="240" />
+    <img src="Sample Results/Param-to-Param_MRiLab-Results.jpg" width="1400" height="951" />
 </p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TE=96ms, TR=2.2s** &emsp;&emsp;&emsp;&emsp; **TE=949ms, TR=2.0s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=949ms, TR=2.0s** &emsp;&emsp;&emsp;&emsp;&ensp; **Avg. Difference=7.94**
-
-<p align='center'>
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=7.2, TE=0.163 to TR=5.3, TE=0.094/Input, TR=7.2, TE=0.163, Slice=17.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=7.2, TE=0.163 to TR=5.3, TE=0.094/Required, TR=5.3, TE=0.094, Slice=17.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=7.2, TE=0.163 to TR=5.3, TE=0.094/Generated, TR=5.3, TE=0.094, Slice=17.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/MriLab Test set/TR=7.2, TE=0.163 to TR=5.3, TE=0.094/Difference, min=0.00035715103, max=80.61673, avg=7.3353896.png" width="220" height="240" />
-</p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;**TE=163ms, TR=7.2s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=94ms, TR=5.3s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=94ms, TR=5.3s** &emsp;&emsp;&emsp;&emsp;&emsp; **Avg. Difference=7.34**
 
 ## BrainWeb Results
 ### Default-to-Param Model
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Input** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **Required** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Generated**&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; **Absolute Difference**
 <p align='center'>
-    <img src="Sample Results/Default to Param/Brainweb Test set/TR=4.5, TE=0.05 to TR=6.0, TE=0.075/Input, TR=4.5, TE=0.05.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/Brainweb Test set/TR=4.5, TE=0.05 to TR=6.0, TE=0.075/Required, TR=6.0, TE=0.075.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/Brainweb Test set/TR=4.5, TE=0.05 to TR=6.0, TE=0.075/Generated, TR=6.0, TE=0.075.png" width="220" height="240" />
-    <img src="Sample Results/Default to Param/Brainweb Test set/TR=4.5, TE=0.05 to TR=6.0, TE=0.075/Difference, min=0.0012011528, max=146.38287, avg=23.265463.png" width="220" height="240" />
+    <img src="Sample Results/Default-to-Param_BrainWeb-Results.jpg" width="1390" height="511" />
 </p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TE=50ms, TR=4.5s** &emsp;&emsp;&emsp;&emsp;&ensp; **TE=75ms, TR=6.0s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=75ms, TR=6.0s** &emsp;&emsp;&emsp;&emsp;&emsp; **Avg. Difference=23.26**
 
 ### Param-to-Param Model
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;**Input** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; **Required** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Generated**&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp; **Absolute Difference**
 <p align='center'>
-    <img src="Sample Results/Param to Param/Brainweb Test set/TR=6.0, TE=0.075 to TR=3.4, TE=0.04/Input, TR=6.0, TE=0.075.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/Brainweb Test set/TR=6.0, TE=0.075 to TR=3.4, TE=0.04/Required, TR=3.4, TE=0.04.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/Brainweb Test set/TR=6.0, TE=0.075 to TR=3.4, TE=0.04/Generated, TR=3.4, T=0.04.png" width="220" height="240" />
-    <img src="Sample Results/Param to Param/Brainweb Test set/TR=6.0, TE=0.075 to TR=3.4, TE=0.04/Difference, min=0.00045681, max=136.90112, avg=20.537035.png" width="220" height="240" />
+    <img src="Sample Results/Param-to-Param_BrainWeb-Results.jpg" width="1428" height="513" />
 </p>
-
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TE=75ms, TR=6.0s** &emsp;&emsp;&emsp;&emsp;&ensp; **TE=40ms, TR=3.4s** &emsp;&emsp;&emsp;&emsp;&emsp; **TE=40ms, TR=3.4s** &emsp;&emsp;&emsp;&emsp;&emsp; **Avg. Difference=20.54**
-
-
-
-
 
 
