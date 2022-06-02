@@ -23,9 +23,9 @@ The param net is a coarse-to-fine model which uses a series of expansive layers 
 
 
 **You can download the trained weights from here -** <br />
-[Weights for END(Autoencoder) model](https://drive.google.com/file/d/1vdS1uEPm_9HkCiL0jbchnj-h16RlWSxN/view?usp=sharing).<br />
-[Weights for Default-to-Param model](https://drive.google.com/file/d/1NcmYU1XXc-FEofpzWRbVlk_Kyvc9e170/view?usp=sharing).<br />
-[Weights for Param-to-Param model](https://drive.google.com/file/d/1C_5h0n2P89eHxtOILiNsNYxmK7Ibgpvw/view?usp=sharing).<br />
+[Weights for END(Autoencoder) model](https://drive.google.com/file/d/1MZzUi_OfRfTBsjTqkXBlVj3FK9PuuocH/view?usp=sharing).<br />
+[Weights for Default-to-Param model](https://drive.google.com/file/d/1MU4mw0uBjeffe-vqDJrLNBHV2l2xFF2i/view?usp=sharing).<br />
+[Weights for Param-to-Param model](https://drive.google.com/file/d/1Mg_PgJTfbnHasXzBu5AfOCfcGoCQI6nt/view?usp=sharing).<br />
 
 ## MRiLab Results
 ### Default-to-Param Model
