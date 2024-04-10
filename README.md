@@ -2,7 +2,7 @@
 
 [Abhijeet Narang](https://www.linkedin.com/in/abhijeet-narang-63b419175/) &nbsp;&nbsp; [Abhigyan Raj](https://www.linkedin.com/in/abhigyan-raj-023537145/) &nbsp;&nbsp; [Mihaela Pop](http://individual.utoronto.ca/mihaelapop/index.html) &nbsp;&nbsp; [Mehran Ebrahimi](https://www.linkedin.com/in/mehran-ebrahimi-a6a92711/)
 
-This is the official implemetation of our BIOENG'22 paper **Deep Learning-Based MR Image Re-parameterization**. An arXiv version of the paper is available [here](https://arxiv.org/abs/2206.05516).
+This is the official implemetation of our BIOENG'22 paper **Deep Learning-Based MR Image Re-parameterization**. You can refer to the paper [here](https://ieeexplore.ieee.org/document/10487616).
 
 Magnetic resonance (MR) image reparameterization refers to the process of generating via simulations of an MR image with a new set of MRI scanning parameters. Different parameter values generate distinct contrast between different tissues, helping identify pathologic tissue. Typically, more than one scan is required for diagnosis; however, acquiring repeated scans can be costly, time-consuming, and difficult in patients. Thus, using MR image re-parameterization to predict and estimate the contrast in these imaging scans can be an effective alternative. In this work, we propose a novel deep learning (DL) based convolutional model for MRI re-parameterization.
 
